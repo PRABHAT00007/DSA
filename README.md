@@ -10,6 +10,7 @@
 | ------- |
 | [0006-zigzag-conversion](https://github.com/PRABHAT00007/DSA/tree/master/0006-zigzag-conversion) |
 | [0115-distinct-subsequences](https://github.com/PRABHAT00007/DSA/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/PRABHAT00007/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [2103-rings-and-rods](https://github.com/PRABHAT00007/DSA/tree/master/2103-rings-and-rods) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/PRABHAT00007/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Array
@@ -33,4 +34,5 @@
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/PRABHAT00007/DSA/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/PRABHAT00007/DSA/tree/master/0940-distinct-subsequences-ii) |
 <!---LeetCode Topics End-->
