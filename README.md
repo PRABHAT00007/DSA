@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [2103-rings-and-rods](https://github.com/PRABHAT00007/DSA/tree/master/2103-rings-and-rods) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/PRABHAT00007/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 ## String
 |  |
 | ------- |
@@ -17,6 +18,7 @@
 |  |
 | ------- |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/PRABHAT00007/DSA/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/PRABHAT00007/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Matrix
 |  |
 | ------- |
@@ -41,4 +43,8 @@
 | ------- |
 | [2169-count-operations-to-obtain-zero](https://github.com/PRABHAT00007/DSA/tree/master/2169-count-operations-to-obtain-zero) |
 | [3870-count-commas-in-range](https://github.com/PRABHAT00007/DSA/tree/master/3870-count-commas-in-range) |
+## Counting
+|  |
+| ------- |
+| [3005-count-elements-with-maximum-frequency](https://github.com/PRABHAT00007/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 <!---LeetCode Topics End-->
