@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/PRABHAT00007/DSA/tree/master/1748-sum-of-unique-elements) |
+| [2094-finding-3-digit-even-numbers](https://github.com/PRABHAT00007/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [2103-rings-and-rods](https://github.com/PRABHAT00007/DSA/tree/master/2103-rings-and-rods) |
 | [2206-divide-array-into-equal-pairs](https://github.com/PRABHAT00007/DSA/tree/master/2206-divide-array-into-equal-pairs) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/PRABHAT00007/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -20,6 +21,7 @@
 |  |
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/PRABHAT00007/DSA/tree/master/1748-sum-of-unique-elements) |
+| [2094-finding-3-digit-even-numbers](https://github.com/PRABHAT00007/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [2206-divide-array-into-equal-pairs](https://github.com/PRABHAT00007/DSA/tree/master/2206-divide-array-into-equal-pairs) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/PRABHAT00007/DSA/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/PRABHAT00007/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -57,6 +59,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/PRABHAT00007/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [2427-number-of-common-factors](https://github.com/PRABHAT00007/DSA/tree/master/2427-number-of-common-factors) |
 ## Number Theory
 |  |
@@ -74,4 +77,12 @@
 |  |
 | ------- |
 | [2206-divide-array-into-equal-pairs](https://github.com/PRABHAT00007/DSA/tree/master/2206-divide-array-into-equal-pairs) |
+## Recursion
+|  |
+| ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/PRABHAT00007/DSA/tree/master/2094-finding-3-digit-even-numbers) |
+## Sorting
+|  |
+| ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/PRABHAT00007/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
