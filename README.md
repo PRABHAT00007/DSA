@@ -18,6 +18,7 @@
 | [2103-rings-and-rods](https://github.com/PRABHAT00007/DSA/tree/master/2103-rings-and-rods) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/PRABHAT00007/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3856-trim-trailing-vowels](https://github.com/PRABHAT00007/DSA/tree/master/3856-trim-trailing-vowels) |
+| [3931-check-adjacent-digit-differences](https://github.com/PRABHAT00007/DSA/tree/master/3931-check-adjacent-digit-differences) |
 ## Array
 |  |
 | ------- |
