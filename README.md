@@ -35,4 +35,8 @@
 | ------- |
 | [0115-distinct-subsequences](https://github.com/PRABHAT00007/DSA/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/PRABHAT00007/DSA/tree/master/0940-distinct-subsequences-ii) |
+## Math
+|  |
+| ------- |
+| [3870-count-commas-in-range](https://github.com/PRABHAT00007/DSA/tree/master/3870-count-commas-in-range) |
 <!---LeetCode Topics End-->
