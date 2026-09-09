@@ -52,6 +52,7 @@
 | [2169-count-operations-to-obtain-zero](https://github.com/PRABHAT00007/DSA/tree/master/2169-count-operations-to-obtain-zero) |
 | [2427-number-of-common-factors](https://github.com/PRABHAT00007/DSA/tree/master/2427-number-of-common-factors) |
 | [3870-count-commas-in-range](https://github.com/PRABHAT00007/DSA/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/PRABHAT00007/DSA/tree/master/3871-count-commas-in-range-ii) |
 ## Counting
 |  |
 | ------- |
