@@ -9,6 +9,7 @@
 | [2103-rings-and-rods](https://github.com/PRABHAT00007/DSA/tree/master/2103-rings-and-rods) |
 | [2206-divide-array-into-equal-pairs](https://github.com/PRABHAT00007/DSA/tree/master/2206-divide-array-into-equal-pairs) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/PRABHAT00007/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/PRABHAT00007/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 ## String
 |  |
 | ------- |
@@ -16,6 +17,7 @@
 | [0115-distinct-subsequences](https://github.com/PRABHAT00007/DSA/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/PRABHAT00007/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [2103-rings-and-rods](https://github.com/PRABHAT00007/DSA/tree/master/2103-rings-and-rods) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/PRABHAT00007/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/PRABHAT00007/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3856-trim-trailing-vowels](https://github.com/PRABHAT00007/DSA/tree/master/3856-trim-trailing-vowels) |
 | [3931-check-adjacent-digit-differences](https://github.com/PRABHAT00007/DSA/tree/master/3931-check-adjacent-digit-differences) |
