@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/PRABHAT00007/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/PRABHAT00007/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1748-sum-of-unique-elements](https://github.com/PRABHAT00007/DSA/tree/master/1748-sum-of-unique-elements) |
 | [2094-finding-3-digit-even-numbers](https://github.com/PRABHAT00007/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [2206-divide-array-into-equal-pairs](https://github.com/PRABHAT00007/DSA/tree/master/2206-divide-array-into-equal-pairs) |
@@ -99,6 +100,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/PRABHAT00007/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/PRABHAT00007/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Divide and Conquer
 |  |
 | ------- |
