@@ -58,6 +58,7 @@
 ## Math
 |  |
 | ------- |
+| [0263-ugly-number](https://github.com/PRABHAT00007/DSA/tree/master/0263-ugly-number) |
 | [0640-solve-the-equation](https://github.com/PRABHAT00007/DSA/tree/master/0640-solve-the-equation) |
 | [2169-count-operations-to-obtain-zero](https://github.com/PRABHAT00007/DSA/tree/master/2169-count-operations-to-obtain-zero) |
 | [2427-number-of-common-factors](https://github.com/PRABHAT00007/DSA/tree/master/2427-number-of-common-factors) |
