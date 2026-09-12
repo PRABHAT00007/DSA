@@ -16,6 +16,7 @@
 | ------- |
 | [0006-zigzag-conversion](https://github.com/PRABHAT00007/DSA/tree/master/0006-zigzag-conversion) |
 | [0115-distinct-subsequences](https://github.com/PRABHAT00007/DSA/tree/master/0115-distinct-subsequences) |
+| [0640-solve-the-equation](https://github.com/PRABHAT00007/DSA/tree/master/0640-solve-the-equation) |
 | [0940-distinct-subsequences-ii](https://github.com/PRABHAT00007/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [2103-rings-and-rods](https://github.com/PRABHAT00007/DSA/tree/master/2103-rings-and-rods) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/PRABHAT00007/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -41,6 +42,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0640-solve-the-equation](https://github.com/PRABHAT00007/DSA/tree/master/0640-solve-the-equation) |
 | [2169-count-operations-to-obtain-zero](https://github.com/PRABHAT00007/DSA/tree/master/2169-count-operations-to-obtain-zero) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/PRABHAT00007/DSA/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/PRABHAT00007/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
@@ -56,6 +58,7 @@
 ## Math
 |  |
 | ------- |
+| [0640-solve-the-equation](https://github.com/PRABHAT00007/DSA/tree/master/0640-solve-the-equation) |
 | [2169-count-operations-to-obtain-zero](https://github.com/PRABHAT00007/DSA/tree/master/2169-count-operations-to-obtain-zero) |
 | [2427-number-of-common-factors](https://github.com/PRABHAT00007/DSA/tree/master/2427-number-of-common-factors) |
 | [3870-count-commas-in-range](https://github.com/PRABHAT00007/DSA/tree/master/3870-count-commas-in-range) |
@@ -107,4 +110,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/PRABHAT00007/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+## Linear Algebra
+|  |
+| ------- |
+| [0640-solve-the-equation](https://github.com/PRABHAT00007/DSA/tree/master/0640-solve-the-equation) |
 <!---LeetCode Topics End-->
