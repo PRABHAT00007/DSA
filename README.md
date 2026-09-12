@@ -48,6 +48,7 @@
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/PRABHAT00007/DSA/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/PRABHAT00007/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3483-unique-3-digit-even-numbers](https://github.com/PRABHAT00007/DSA/tree/master/3483-unique-3-digit-even-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PRABHAT00007/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/PRABHAT00007/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [4020-elevator-requests-i](https://github.com/PRABHAT00007/DSA/tree/master/4020-elevator-requests-i) |
 ## Matrix
@@ -84,6 +85,7 @@
 | [1837-sum-of-digits-in-base-k](https://github.com/PRABHAT00007/DSA/tree/master/1837-sum-of-digits-in-base-k) |
 | [2169-count-operations-to-obtain-zero](https://github.com/PRABHAT00007/DSA/tree/master/2169-count-operations-to-obtain-zero) |
 | [2427-number-of-common-factors](https://github.com/PRABHAT00007/DSA/tree/master/2427-number-of-common-factors) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PRABHAT00007/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/PRABHAT00007/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/PRABHAT00007/DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/PRABHAT00007/DSA/tree/master/3871-count-commas-in-range-ii) |
