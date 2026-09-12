@@ -9,6 +9,7 @@
 | [2094-finding-3-digit-even-numbers](https://github.com/PRABHAT00007/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [2103-rings-and-rods](https://github.com/PRABHAT00007/DSA/tree/master/2103-rings-and-rods) |
 | [2206-divide-array-into-equal-pairs](https://github.com/PRABHAT00007/DSA/tree/master/2206-divide-array-into-equal-pairs) |
+| [2351-first-letter-to-appear-twice](https://github.com/PRABHAT00007/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/PRABHAT00007/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/PRABHAT00007/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/PRABHAT00007/DSA/tree/master/3483-unique-3-digit-even-numbers) |
@@ -22,6 +23,7 @@
 | [2103-rings-and-rods](https://github.com/PRABHAT00007/DSA/tree/master/2103-rings-and-rods) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/PRABHAT00007/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2278-percentage-of-letter-in-string](https://github.com/PRABHAT00007/DSA/tree/master/2278-percentage-of-letter-in-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/PRABHAT00007/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/PRABHAT00007/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/PRABHAT00007/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3856-trim-trailing-vowels](https://github.com/PRABHAT00007/DSA/tree/master/3856-trim-trailing-vowels) |
@@ -85,6 +87,7 @@
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/PRABHAT00007/DSA/tree/master/1748-sum-of-unique-elements) |
 | [2206-divide-array-into-equal-pairs](https://github.com/PRABHAT00007/DSA/tree/master/2206-divide-array-into-equal-pairs) |
+| [2351-first-letter-to-appear-twice](https://github.com/PRABHAT00007/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/PRABHAT00007/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Enumeration
 |  |
@@ -108,6 +111,7 @@
 |  |
 | ------- |
 | [2206-divide-array-into-equal-pairs](https://github.com/PRABHAT00007/DSA/tree/master/2206-divide-array-into-equal-pairs) |
+| [2351-first-letter-to-appear-twice](https://github.com/PRABHAT00007/DSA/tree/master/2351-first-letter-to-appear-twice) |
 ## Recursion
 |  |
 | ------- |
