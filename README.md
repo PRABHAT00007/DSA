@@ -70,6 +70,7 @@
 | [0263-ugly-number](https://github.com/PRABHAT00007/DSA/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/PRABHAT00007/DSA/tree/master/0264-ugly-number-ii) |
 | [0640-solve-the-equation](https://github.com/PRABHAT00007/DSA/tree/master/0640-solve-the-equation) |
+| [1837-sum-of-digits-in-base-k](https://github.com/PRABHAT00007/DSA/tree/master/1837-sum-of-digits-in-base-k) |
 | [2169-count-operations-to-obtain-zero](https://github.com/PRABHAT00007/DSA/tree/master/2169-count-operations-to-obtain-zero) |
 | [2427-number-of-common-factors](https://github.com/PRABHAT00007/DSA/tree/master/2427-number-of-common-factors) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/PRABHAT00007/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
