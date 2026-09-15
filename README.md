@@ -27,6 +27,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/PRABHAT00007/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2278-percentage-of-letter-in-string](https://github.com/PRABHAT00007/DSA/tree/master/2278-percentage-of-letter-in-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/PRABHAT00007/DSA/tree/master/2351-first-letter-to-appear-twice) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/PRABHAT00007/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/PRABHAT00007/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3340-check-balanced-string](https://github.com/PRABHAT00007/DSA/tree/master/3340-check-balanced-string) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/PRABHAT00007/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
@@ -69,6 +70,7 @@
 |  |
 | ------- |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/PRABHAT00007/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/PRABHAT00007/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/PRABHAT00007/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Dynamic Programming
 |  |
@@ -76,6 +78,7 @@
 | [0115-distinct-subsequences](https://github.com/PRABHAT00007/DSA/tree/master/0115-distinct-subsequences) |
 | [0264-ugly-number-ii](https://github.com/PRABHAT00007/DSA/tree/master/0264-ugly-number-ii) |
 | [0940-distinct-subsequences-ii](https://github.com/PRABHAT00007/DSA/tree/master/0940-distinct-subsequences-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/PRABHAT00007/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Math
 |  |
 | ------- |
@@ -149,4 +152,8 @@
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/PRABHAT00007/DSA/tree/master/0264-ugly-number-ii) |
+## Greedy
+|  |
+| ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/PRABHAT00007/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 <!---LeetCode Topics End-->
