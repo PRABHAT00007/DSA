@@ -87,6 +87,7 @@
 | [0264-ugly-number-ii](https://github.com/PRABHAT00007/DSA/tree/master/0264-ugly-number-ii) |
 | [0640-solve-the-equation](https://github.com/PRABHAT00007/DSA/tree/master/0640-solve-the-equation) |
 | [1837-sum-of-digits-in-base-k](https://github.com/PRABHAT00007/DSA/tree/master/1837-sum-of-digits-in-base-k) |
+| [1925-count-square-sum-triples](https://github.com/PRABHAT00007/DSA/tree/master/1925-count-square-sum-triples) |
 | [2169-count-operations-to-obtain-zero](https://github.com/PRABHAT00007/DSA/tree/master/2169-count-operations-to-obtain-zero) |
 | [2427-number-of-common-factors](https://github.com/PRABHAT00007/DSA/tree/master/2427-number-of-common-factors) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PRABHAT00007/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -105,6 +106,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1925-count-square-sum-triples](https://github.com/PRABHAT00007/DSA/tree/master/1925-count-square-sum-triples) |
 | [2094-finding-3-digit-even-numbers](https://github.com/PRABHAT00007/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [2427-number-of-common-factors](https://github.com/PRABHAT00007/DSA/tree/master/2427-number-of-common-factors) |
 | [3483-unique-3-digit-even-numbers](https://github.com/PRABHAT00007/DSA/tree/master/3483-unique-3-digit-even-numbers) |
