@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/PRABHAT00007/DSA/tree/master/0264-ugly-number-ii) |
+| [0447-number-of-boomerangs](https://github.com/PRABHAT00007/DSA/tree/master/0447-number-of-boomerangs) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/PRABHAT00007/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/PRABHAT00007/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1748-sum-of-unique-elements](https://github.com/PRABHAT00007/DSA/tree/master/1748-sum-of-unique-elements) |
@@ -49,6 +50,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/PRABHAT00007/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0048-rotate-image](https://github.com/PRABHAT00007/DSA/tree/master/0048-rotate-image) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PRABHAT00007/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0447-number-of-boomerangs](https://github.com/PRABHAT00007/DSA/tree/master/0447-number-of-boomerangs) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/PRABHAT00007/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/PRABHAT00007/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1200-minimum-absolute-difference](https://github.com/PRABHAT00007/DSA/tree/master/1200-minimum-absolute-difference) |
@@ -102,6 +104,7 @@
 | [0048-rotate-image](https://github.com/PRABHAT00007/DSA/tree/master/0048-rotate-image) |
 | [0263-ugly-number](https://github.com/PRABHAT00007/DSA/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/PRABHAT00007/DSA/tree/master/0264-ugly-number-ii) |
+| [0447-number-of-boomerangs](https://github.com/PRABHAT00007/DSA/tree/master/0447-number-of-boomerangs) |
 | [0640-solve-the-equation](https://github.com/PRABHAT00007/DSA/tree/master/0640-solve-the-equation) |
 | [1837-sum-of-digits-in-base-k](https://github.com/PRABHAT00007/DSA/tree/master/1837-sum-of-digits-in-base-k) |
 | [1925-count-square-sum-triples](https://github.com/PRABHAT00007/DSA/tree/master/1925-count-square-sum-triples) |
