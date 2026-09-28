@@ -209,6 +209,7 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/PRABHAT00007/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/PRABHAT00007/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/PRABHAT00007/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -219,4 +220,13 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/PRABHAT00007/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/PRABHAT00007/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/PRABHAT00007/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Depth-First Search
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/PRABHAT00007/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/PRABHAT00007/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
