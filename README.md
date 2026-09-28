@@ -26,6 +26,7 @@
 | [0022-generate-parentheses](https://github.com/PRABHAT00007/DSA/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/PRABHAT00007/DSA/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/PRABHAT00007/DSA/tree/master/0131-palindrome-partitioning) |
+| [0316-remove-duplicate-letters](https://github.com/PRABHAT00007/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0640-solve-the-equation](https://github.com/PRABHAT00007/DSA/tree/master/0640-solve-the-equation) |
 | [0657-robot-return-to-origin](https://github.com/PRABHAT00007/DSA/tree/master/0657-robot-return-to-origin) |
 | [0940-distinct-subsequences-ii](https://github.com/PRABHAT00007/DSA/tree/master/0940-distinct-subsequences-ii) |
@@ -182,6 +183,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/PRABHAT00007/DSA/tree/master/0316-remove-duplicate-letters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/PRABHAT00007/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/PRABHAT00007/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sliding Window
@@ -195,6 +197,7 @@
 ## Stack
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/PRABHAT00007/DSA/tree/master/0316-remove-duplicate-letters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PRABHAT00007/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
@@ -236,4 +239,8 @@
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/PRABHAT00007/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/PRABHAT00007/DSA/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->
