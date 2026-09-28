@@ -200,5 +200,6 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/PRABHAT00007/DSA/tree/master/0022-generate-parentheses) |
+| [0077-combinations](https://github.com/PRABHAT00007/DSA/tree/master/0077-combinations) |
 | [0131-palindrome-partitioning](https://github.com/PRABHAT00007/DSA/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
