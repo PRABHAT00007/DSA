@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/PRABHAT00007/DSA/tree/master/0006-zigzag-conversion) |
+| [0022-generate-parentheses](https://github.com/PRABHAT00007/DSA/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/PRABHAT00007/DSA/tree/master/0115-distinct-subsequences) |
 | [0640-solve-the-equation](https://github.com/PRABHAT00007/DSA/tree/master/0640-solve-the-equation) |
 | [0657-robot-return-to-origin](https://github.com/PRABHAT00007/DSA/tree/master/0657-robot-return-to-origin) |
@@ -85,6 +86,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/PRABHAT00007/DSA/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/PRABHAT00007/DSA/tree/master/0115-distinct-subsequences) |
 | [0264-ugly-number-ii](https://github.com/PRABHAT00007/DSA/tree/master/0264-ugly-number-ii) |
 | [0940-distinct-subsequences-ii](https://github.com/PRABHAT00007/DSA/tree/master/0940-distinct-subsequences-ii) |
@@ -187,5 +189,10 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/PRABHAT00007/DSA/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PRABHAT00007/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/PRABHAT00007/DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
