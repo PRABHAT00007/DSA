@@ -46,6 +46,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/PRABHAT00007/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0048-rotate-image](https://github.com/PRABHAT00007/DSA/tree/master/0048-rotate-image) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/PRABHAT00007/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/PRABHAT00007/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1200-minimum-absolute-difference](https://github.com/PRABHAT00007/DSA/tree/master/1200-minimum-absolute-difference) |
@@ -66,6 +67,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/PRABHAT00007/DSA/tree/master/0048-rotate-image) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/PRABHAT00007/DSA/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 ## Simulation
 |  |
@@ -94,6 +96,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/PRABHAT00007/DSA/tree/master/0048-rotate-image) |
 | [0263-ugly-number](https://github.com/PRABHAT00007/DSA/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/PRABHAT00007/DSA/tree/master/0264-ugly-number-ii) |
 | [0640-solve-the-equation](https://github.com/PRABHAT00007/DSA/tree/master/0640-solve-the-equation) |
