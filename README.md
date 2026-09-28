@@ -48,6 +48,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/PRABHAT00007/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0048-rotate-image](https://github.com/PRABHAT00007/DSA/tree/master/0048-rotate-image) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/PRABHAT00007/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/PRABHAT00007/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/PRABHAT00007/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1200-minimum-absolute-difference](https://github.com/PRABHAT00007/DSA/tree/master/1200-minimum-absolute-difference) |
@@ -159,6 +160,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/PRABHAT00007/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/PRABHAT00007/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/PRABHAT00007/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/PRABHAT00007/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/PRABHAT00007/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
