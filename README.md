@@ -45,6 +45,7 @@
 | [3340-check-balanced-string](https://github.com/PRABHAT00007/DSA/tree/master/3340-check-balanced-string) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/PRABHAT00007/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3856-trim-trailing-vowels](https://github.com/PRABHAT00007/DSA/tree/master/3856-trim-trailing-vowels) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/PRABHAT00007/DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3894-traffic-signal-color](https://github.com/PRABHAT00007/DSA/tree/master/3894-traffic-signal-color) |
 | [3931-check-adjacent-digit-differences](https://github.com/PRABHAT00007/DSA/tree/master/3931-check-adjacent-digit-differences) |
 ## Array
