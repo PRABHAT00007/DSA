@@ -159,6 +159,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/PRABHAT00007/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [2094-finding-3-digit-even-numbers](https://github.com/PRABHAT00007/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/PRABHAT00007/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
@@ -254,4 +255,8 @@
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/PRABHAT00007/DSA/tree/master/0316-remove-duplicate-letters) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/PRABHAT00007/DSA/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
