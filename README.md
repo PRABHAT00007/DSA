@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/PRABHAT00007/DSA/tree/master/0006-zigzag-conversion) |
+| [0010-regular-expression-matching](https://github.com/PRABHAT00007/DSA/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/PRABHAT00007/DSA/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/PRABHAT00007/DSA/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/PRABHAT00007/DSA/tree/master/0131-palindrome-partitioning) |
@@ -98,6 +99,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/PRABHAT00007/DSA/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/PRABHAT00007/DSA/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/PRABHAT00007/DSA/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/PRABHAT00007/DSA/tree/master/0131-palindrome-partitioning) |
@@ -159,6 +161,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/PRABHAT00007/DSA/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/PRABHAT00007/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [2094-finding-3-digit-even-numbers](https://github.com/PRABHAT00007/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/PRABHAT00007/DSA/tree/master/3483-unique-3-digit-even-numbers) |
