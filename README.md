@@ -71,6 +71,7 @@
 | [3005-count-elements-with-maximum-frequency](https://github.com/PRABHAT00007/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3483-unique-3-digit-even-numbers](https://github.com/PRABHAT00007/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PRABHAT00007/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/PRABHAT00007/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/PRABHAT00007/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [4020-elevator-requests-i](https://github.com/PRABHAT00007/DSA/tree/master/4020-elevator-requests-i) |
 ## Matrix
@@ -154,6 +155,7 @@
 | [2032-two-out-of-three](https://github.com/PRABHAT00007/DSA/tree/master/2032-two-out-of-three) |
 | [2206-divide-array-into-equal-pairs](https://github.com/PRABHAT00007/DSA/tree/master/2206-divide-array-into-equal-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/PRABHAT00007/DSA/tree/master/2351-first-letter-to-appear-twice) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/PRABHAT00007/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Recursion
 |  |
 | ------- |
