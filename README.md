@@ -63,6 +63,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/PRABHAT00007/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/PRABHAT00007/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1200-minimum-absolute-difference](https://github.com/PRABHAT00007/DSA/tree/master/1200-minimum-absolute-difference) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/PRABHAT00007/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/PRABHAT00007/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1748-sum-of-unique-elements](https://github.com/PRABHAT00007/DSA/tree/master/1748-sum-of-unique-elements) |
 | [2032-two-out-of-three](https://github.com/PRABHAT00007/DSA/tree/master/2032-two-out-of-three) |
@@ -98,6 +99,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/PRABHAT00007/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/PRABHAT00007/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/PRABHAT00007/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/PRABHAT00007/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
@@ -177,6 +179,7 @@
 |  |
 | ------- |
 | [1200-minimum-absolute-difference](https://github.com/PRABHAT00007/DSA/tree/master/1200-minimum-absolute-difference) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/PRABHAT00007/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/PRABHAT00007/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2094-finding-3-digit-even-numbers](https://github.com/PRABHAT00007/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 ## Binary Search
@@ -186,6 +189,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PRABHAT00007/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/PRABHAT00007/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/PRABHAT00007/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/PRABHAT00007/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/PRABHAT00007/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Divide and Conquer
 |  |
