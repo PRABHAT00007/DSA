@@ -17,6 +17,7 @@
 | [2206-divide-array-into-equal-pairs](https://github.com/PRABHAT00007/DSA/tree/master/2206-divide-array-into-equal-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/PRABHAT00007/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2670-find-the-distinct-difference-array](https://github.com/PRABHAT00007/DSA/tree/master/2670-find-the-distinct-difference-array) |
+| [2747-count-zero-request-servers](https://github.com/PRABHAT00007/DSA/tree/master/2747-count-zero-request-servers) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/PRABHAT00007/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/PRABHAT00007/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/PRABHAT00007/DSA/tree/master/3483-unique-3-digit-even-numbers) |
@@ -73,6 +74,7 @@
 | [2206-divide-array-into-equal-pairs](https://github.com/PRABHAT00007/DSA/tree/master/2206-divide-array-into-equal-pairs) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/PRABHAT00007/DSA/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2670-find-the-distinct-difference-array](https://github.com/PRABHAT00007/DSA/tree/master/2670-find-the-distinct-difference-array) |
+| [2747-count-zero-request-servers](https://github.com/PRABHAT00007/DSA/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/PRABHAT00007/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/PRABHAT00007/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3483-unique-3-digit-even-numbers](https://github.com/PRABHAT00007/DSA/tree/master/3483-unique-3-digit-even-numbers) |
@@ -183,6 +185,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/PRABHAT00007/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/PRABHAT00007/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2094-finding-3-digit-even-numbers](https://github.com/PRABHAT00007/DSA/tree/master/2094-finding-3-digit-even-numbers) |
+| [2747-count-zero-request-servers](https://github.com/PRABHAT00007/DSA/tree/master/2747-count-zero-request-servers) |
 ## Binary Search
 |  |
 | ------- |
@@ -215,6 +218,7 @@
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/PRABHAT00007/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2747-count-zero-request-servers](https://github.com/PRABHAT00007/DSA/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/PRABHAT00007/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Prefix Sum
 |  |
