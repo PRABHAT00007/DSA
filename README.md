@@ -81,6 +81,7 @@
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/PRABHAT00007/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PRABHAT00007/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/PRABHAT00007/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3693-climbing-stairs-ii](https://github.com/PRABHAT00007/DSA/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/PRABHAT00007/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3917-count-indices-with-opposite-parity](https://github.com/PRABHAT00007/DSA/tree/master/3917-count-indices-with-opposite-parity) |
 | [4020-elevator-requests-i](https://github.com/PRABHAT00007/DSA/tree/master/4020-elevator-requests-i) |
@@ -117,6 +118,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/PRABHAT00007/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/PRABHAT00007/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/PRABHAT00007/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3693-climbing-stairs-ii](https://github.com/PRABHAT00007/DSA/tree/master/3693-climbing-stairs-ii) |
 ## Math
 |  |
 | ------- |
