@@ -29,6 +29,7 @@
 | [0010-regular-expression-matching](https://github.com/PRABHAT00007/DSA/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/PRABHAT00007/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/PRABHAT00007/DSA/tree/master/0022-generate-parentheses) |
+| [0043-multiply-strings](https://github.com/PRABHAT00007/DSA/tree/master/0043-multiply-strings) |
 | [0115-distinct-subsequences](https://github.com/PRABHAT00007/DSA/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/PRABHAT00007/DSA/tree/master/0131-palindrome-partitioning) |
 | [0316-remove-duplicate-letters](https://github.com/PRABHAT00007/DSA/tree/master/0316-remove-duplicate-letters) |
@@ -94,6 +95,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/PRABHAT00007/DSA/tree/master/0043-multiply-strings) |
 | [0640-solve-the-equation](https://github.com/PRABHAT00007/DSA/tree/master/0640-solve-the-equation) |
 | [0657-robot-return-to-origin](https://github.com/PRABHAT00007/DSA/tree/master/0657-robot-return-to-origin) |
 | [2169-count-operations-to-obtain-zero](https://github.com/PRABHAT00007/DSA/tree/master/2169-count-operations-to-obtain-zero) |
@@ -124,6 +126,7 @@
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/PRABHAT00007/DSA/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/PRABHAT00007/DSA/tree/master/0048-rotate-image) |
 | [0263-ugly-number](https://github.com/PRABHAT00007/DSA/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/PRABHAT00007/DSA/tree/master/0264-ugly-number-ii) |
