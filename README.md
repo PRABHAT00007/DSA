@@ -57,6 +57,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/PRABHAT00007/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0018-4sum](https://github.com/PRABHAT00007/DSA/tree/master/0018-4sum) |
 | [0048-rotate-image](https://github.com/PRABHAT00007/DSA/tree/master/0048-rotate-image) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PRABHAT00007/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0447-number-of-boomerangs](https://github.com/PRABHAT00007/DSA/tree/master/0447-number-of-boomerangs) |
@@ -103,6 +104,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/PRABHAT00007/DSA/tree/master/0018-4sum) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/PRABHAT00007/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/PRABHAT00007/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/PRABHAT00007/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -184,6 +186,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/PRABHAT00007/DSA/tree/master/0018-4sum) |
 | [1200-minimum-absolute-difference](https://github.com/PRABHAT00007/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/PRABHAT00007/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/PRABHAT00007/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
