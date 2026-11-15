@@ -184,6 +184,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/PRABHAT00007/DSA/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/PRABHAT00007/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/PRABHAT00007/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [2094-finding-3-digit-even-numbers](https://github.com/PRABHAT00007/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/PRABHAT00007/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
@@ -292,4 +293,5 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/PRABHAT00007/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/PRABHAT00007/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
