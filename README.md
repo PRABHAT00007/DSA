@@ -43,6 +43,7 @@
 | [2053-kth-distinct-string-in-an-array](https://github.com/PRABHAT00007/DSA/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2103-rings-and-rods](https://github.com/PRABHAT00007/DSA/tree/master/2103-rings-and-rods) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/PRABHAT00007/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/PRABHAT00007/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2278-percentage-of-letter-in-string](https://github.com/PRABHAT00007/DSA/tree/master/2278-percentage-of-letter-in-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/PRABHAT00007/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/PRABHAT00007/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -99,6 +100,7 @@
 | [0640-solve-the-equation](https://github.com/PRABHAT00007/DSA/tree/master/0640-solve-the-equation) |
 | [0657-robot-return-to-origin](https://github.com/PRABHAT00007/DSA/tree/master/0657-robot-return-to-origin) |
 | [2169-count-operations-to-obtain-zero](https://github.com/PRABHAT00007/DSA/tree/master/2169-count-operations-to-obtain-zero) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/PRABHAT00007/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/PRABHAT00007/DSA/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/PRABHAT00007/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3894-traffic-signal-color](https://github.com/PRABHAT00007/DSA/tree/master/3894-traffic-signal-color) |
