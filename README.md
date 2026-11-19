@@ -76,6 +76,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/PRABHAT00007/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/PRABHAT00007/DSA/tree/master/2206-divide-array-into-equal-pairs) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/PRABHAT00007/DSA/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/PRABHAT00007/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2670-find-the-distinct-difference-array](https://github.com/PRABHAT00007/DSA/tree/master/2670-find-the-distinct-difference-array) |
 | [2747-count-zero-request-servers](https://github.com/PRABHAT00007/DSA/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/PRABHAT00007/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -197,6 +198,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/PRABHAT00007/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/PRABHAT00007/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2094-finding-3-digit-even-numbers](https://github.com/PRABHAT00007/DSA/tree/master/2094-finding-3-digit-even-numbers) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/PRABHAT00007/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/PRABHAT00007/DSA/tree/master/2747-count-zero-request-servers) |
 ## Binary Search
 |  |
@@ -226,6 +228,7 @@
 | [0316-remove-duplicate-letters](https://github.com/PRABHAT00007/DSA/tree/master/0316-remove-duplicate-letters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/PRABHAT00007/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/PRABHAT00007/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/PRABHAT00007/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/PRABHAT00007/DSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Sliding Window
 |  |
