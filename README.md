@@ -20,6 +20,7 @@
 | [2747-count-zero-request-servers](https://github.com/PRABHAT00007/DSA/tree/master/2747-count-zero-request-servers) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/PRABHAT00007/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/PRABHAT00007/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/PRABHAT00007/DSA/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3483-unique-3-digit-even-numbers](https://github.com/PRABHAT00007/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/PRABHAT00007/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## String
@@ -49,6 +50,7 @@
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/PRABHAT00007/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/PRABHAT00007/DSA/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/PRABHAT00007/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/PRABHAT00007/DSA/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3340-check-balanced-string](https://github.com/PRABHAT00007/DSA/tree/master/3340-check-balanced-string) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/PRABHAT00007/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3856-trim-trailing-vowels](https://github.com/PRABHAT00007/DSA/tree/master/3856-trim-trailing-vowels) |
@@ -81,6 +83,7 @@
 | [2747-count-zero-request-servers](https://github.com/PRABHAT00007/DSA/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/PRABHAT00007/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/PRABHAT00007/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/PRABHAT00007/DSA/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3483-unique-3-digit-even-numbers](https://github.com/PRABHAT00007/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/PRABHAT00007/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PRABHAT00007/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -268,6 +271,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/PRABHAT00007/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/PRABHAT00007/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/PRABHAT00007/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/PRABHAT00007/DSA/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -286,6 +290,7 @@
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/PRABHAT00007/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/PRABHAT00007/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/PRABHAT00007/DSA/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Binary Search Tree
 |  |
 | ------- |
