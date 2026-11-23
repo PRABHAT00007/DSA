@@ -69,6 +69,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/PRABHAT00007/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/PRABHAT00007/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1200-minimum-absolute-difference](https://github.com/PRABHAT00007/DSA/tree/master/1200-minimum-absolute-difference) |
+| [1352-product-of-the-last-k-numbers](https://github.com/PRABHAT00007/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/PRABHAT00007/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/PRABHAT00007/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1748-sum-of-unique-elements](https://github.com/PRABHAT00007/DSA/tree/master/1748-sum-of-unique-elements) |
@@ -139,6 +140,7 @@
 | [0447-number-of-boomerangs](https://github.com/PRABHAT00007/DSA/tree/master/0447-number-of-boomerangs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/PRABHAT00007/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0640-solve-the-equation](https://github.com/PRABHAT00007/DSA/tree/master/0640-solve-the-equation) |
+| [1352-product-of-the-last-k-numbers](https://github.com/PRABHAT00007/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1837-sum-of-digits-in-base-k](https://github.com/PRABHAT00007/DSA/tree/master/1837-sum-of-digits-in-base-k) |
 | [1925-count-square-sum-triples](https://github.com/PRABHAT00007/DSA/tree/master/1925-count-square-sum-triples) |
 | [2169-count-operations-to-obtain-zero](https://github.com/PRABHAT00007/DSA/tree/master/2169-count-operations-to-obtain-zero) |
@@ -242,6 +244,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/PRABHAT00007/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/PRABHAT00007/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Stack
 |  |
@@ -304,4 +307,12 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/PRABHAT00007/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/PRABHAT00007/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/PRABHAT00007/DSA/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/PRABHAT00007/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
